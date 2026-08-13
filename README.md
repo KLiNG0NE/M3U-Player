@@ -14,6 +14,16 @@ Ein M3U-Playlist-Abspielprogramm das online als SPA funktioniert.
 
 ---
 
+## Player online nutzen ##
+
+Der Player kann online unter folgender URL genutzt werden:
+
+```
+https://kling0ne.github.io/M3U-Player/
+```
+
+---
+
 ## Screenshot ##
 
 ![Screenshot](screenshot.jpg "Screenshot")
