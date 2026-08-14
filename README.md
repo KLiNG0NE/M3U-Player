@@ -18,8 +18,12 @@ Ein M3U-Playlist-Abspielprogramm das online als SPA funktioniert.
 
 Der Player kann online unter folgender URL genutzt werden:
 
-```
 https://kling0ne.github.io/M3U-Player/
+
+Hier befindet sich eine Beispiel-Playlist:
+
+```
+https://tinyurl.com/klingtv
 ```
 
 ---
