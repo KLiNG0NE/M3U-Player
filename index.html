@@ -316,11 +316,12 @@
     background: #0d1320;
     display: grid; place-items: center;
     position: relative;
-    overflow: hidden;
   }
   .channel .thumb img {
-    width: 100%; height: 100%; object-fit: contain;
-    padding: 12px;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    padding: 16px;
   }
   .channel .thumb .placeholder {
     color: var(--muted); font-size: 12px; text-align: center;
@@ -348,9 +349,9 @@
     align-items: center;
   }
   .channels.list-view .channel .thumb {
-    aspect-ratio: unset; height: 56px;
+    aspect-ratio: unset; height: 72px;
   }
-  .channels.list-view .channel .thumb img { padding: 6px; }
+  .channels.list-view .channel .thumb img { padding: 8px; }
   .channels.list-view .channel .body { padding: 8px 12px; }
   .channels.list-view .channel .badge { position: static; }
 
