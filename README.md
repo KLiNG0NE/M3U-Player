@@ -1,4 +1,7 @@
 # M3U-Player
+
+<img src="logo.png" alt="Logo" width="100" height="100">
+
 Ein M3U-Playlist-Abspielprogramm das online als SPA funktioniert.
 
 ---
