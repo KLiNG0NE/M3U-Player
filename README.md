@@ -38,3 +38,7 @@ https://tinyurl.com/klingtv
 ### Desktop ###
 
 ![Screenshot](screenshot.jpg "Screenshot – Desktop")
+
+### Mobil ###
+
+![Screenshot](screenshot-mobile.jpg "Screenshot – Mobil")
