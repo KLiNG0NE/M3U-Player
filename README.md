@@ -33,4 +33,9 @@ https://tinyurl.com/klingtv
 
 ## Screenshot ##
 
-![Screenshot](screenshot.jpg "Screenshot")
+<p align="center">
+  <figure>
+    <img src="screenshot.jpg" alt="Screenshot">
+    <figcaption>Screenshot – Desktop</figcaption>
+  </figure>
+</p>
