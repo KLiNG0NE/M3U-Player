@@ -1,6 +1,8 @@
 # M3U-Player
 
-<img src="logo.png" alt="Logo" width="100" height="100">
+<p align="center">
+    <img src="logo.png" alt="Logo" width="100" height="100">
+</p>
 
 Ein M3U-Playlist-Abspielprogramm das online als SPA funktioniert.
 
@@ -33,9 +35,6 @@ https://tinyurl.com/klingtv
 
 ## Screenshot ##
 
-<p align="center">
-  <figure>
-    <img src="screenshot.jpg" alt="Screenshot">
-    <figcaption>Screenshot – Desktop</figcaption>
-  </figure>
-</p>
+### Desktop ###
+
+![Screenshot](screenshot.jpg "Screenshot – Desktop")
