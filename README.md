@@ -41,4 +41,4 @@ https://tinyurl.com/klingtv
 
 ### Mobil ###
 
-<img src="screenshot-mobile.jpg" alt="Screenshot – Mobil" width="480">
+<img src="screenshot-mobile.jpg" alt="Screenshot – Mobil" width="360">
