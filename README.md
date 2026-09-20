@@ -45,6 +45,8 @@ https://tinyurl.com/klingtv
     <img src="screenshot-mobile.jpg" alt="Screenshot – Mobil" title="Screenshot – Mobil" width="360">
 </p>
 
+---
+
 ## Features ##
 
 ### 1️⃣ Streaming von Sendern ###
@@ -86,3 +88,10 @@ M3U-Inhalt direkt im Textfeld einfügen oder kopieren
 - Open-Source-Anwendung (auf GitHub gehostet)
 - Funktioniert im Browser ohne Installation
 
+---
+
+## QR-Code ##
+
+<p align="center">
+    <img src="qr-code.png" alt="Logo" width="256" height="256">
+</p>
