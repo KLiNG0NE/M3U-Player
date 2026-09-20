@@ -8,6 +8,16 @@ Ein M3U-Playlist-Abspielprogramm das online als SPA funktioniert.
 
 ---
 
+## Übersicht ##
+
+- [Beschreibung](#beschreibung)
+- [Player online nutzen](#player-online-nutzen)
+- [Screenshot](#screenshot)
+- [Funktionen](#funktionen)
+- [QR-Code](#qr-code)
+
+---
+
 ## Beschreibung ##
 
 - Diese Single-Page-Webanwendung (SPA) stellt online einen Web-Player zur Verfügung, der M3U-Playlisten abspielt.
@@ -47,7 +57,7 @@ https://tinyurl.com/klingtv
 
 ---
 
-## Features ##
+## Funktionen ##
 
 ### 1️⃣ Streaming von Sendern ###
 
